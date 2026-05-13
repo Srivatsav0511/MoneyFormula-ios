@@ -64,4 +64,7 @@ Use:
 
 ## License
 
-Add your preferred license here (MIT, Apache-2.0, Proprietary, etc.).
+MIT License
+
+Copyright (c) 2026 MoneyFormula
+
